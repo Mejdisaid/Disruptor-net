@@ -30,6 +30,7 @@ launchSettings.json
 _ReSharper*/
 *.resharper
 [Tt]est[Rr]esult*
+src/.vs/*
 .vs/*
 .vscode/*
 .idea
